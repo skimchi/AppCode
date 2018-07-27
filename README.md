@@ -1,3 +1,3 @@
 # AppCode
 My first app creation
-Collaborators: Steve Kim, Eric Kim
+Collaborators: Steve Kim, Eric Kim, Chan Woo Suk 
